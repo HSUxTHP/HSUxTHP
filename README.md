@@ -1,4 +1,4 @@
-# 💼 Full-Stack Developer Environment Setup
+# 💼 My Full-Stack Development Environment
 
 This repository showcases my development environment, tools, and technologies I frequently use across various platforms and projects.
 
